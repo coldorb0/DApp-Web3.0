@@ -4,9 +4,18 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
-```shell
+```sh
 npx hardhat help
+```
+```sh
 npx hardhat node
+```
+```sh
 npx hardhat run scripts/deploy.js
 ```
+```sh
+npx run start
+```
+
+
 # DApp-Web3.0
